@@ -1,4 +1,5 @@
 import TODOList from "@/components/TODOList";
+import UntypedTODOList from "@/components/UntypedTODOList";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       }}
     >
       <TODOList />
+      {/* <UntypedTODOList /> */}
     </main>
   );
 }

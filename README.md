@@ -11,5 +11,6 @@ pnpm dev
 
 - `src/schema.ts` Where we define our schema
 - `src/TODOList.tsx` Where we define our form
+- `src/UntypedTODOList.tsx` An alternative, mostly untyped, way to use RJSF Layout
 
 Both files have ⭐ comments all around with various explanations
